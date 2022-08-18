@@ -4,8 +4,8 @@ The main purpose of this project is to build an automatic analysis tool for the 
 The types of loans are personal installment loans such as debt consolidation, home improvement, buying a solar panel, wedding.
 
 As an accountant, you expedit your recording process by automate the entries. 
-As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books.
-As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. 
+As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books. /n/
+As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. /n/
 As a CEO, 
 
 
