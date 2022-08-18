@@ -14,5 +14,14 @@ we will build a formula to two consecutive monthly dataset. Such as below:
 
 ![image](https://user-images.githubusercontent.com/108306648/185512914-c8f29407-7a40-480c-92cb-4e994216a80e.png)
 
+We will also generate an entry import report
+for example,
+Cr Account Receivable     xxx
+       Dr Loan  xxx
+Dr cash     xxx
+       credit loan pmt    xxx
+       
+we will generate different type of charts for both accounting manager and marketing manager. such as below:
+  
 
 ![image](https://user-images.githubusercontent.com/108306648/185512948-2e2cc814-e7b7-462b-9d05-ed4eeff15ee7.png)
