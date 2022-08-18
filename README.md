@@ -1,14 +1,14 @@
 # fintech_collab
-The main purpose of this project is to build an automatic analysis tool for the accounting manager and marketing manager. The injested dataset will be loan tapes from a platform that the company work with. 
+The main purpose of this project is to build an automatic analysis tool for the accounting manager and marketing manager. The injested dataset will be loan tapes from a platform that the company work with. <br />
 
 The types of loans are personal installment loans such as debt consolidation, home improvement, buying a solar panel, wedding.
 
-As an accountant, you expedit your recording process by automate the entries. 
-As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books. /n/
-As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. /n/
+As an accountant, you expedit your recording process by automate the entries. <br />
+As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books.  <br />
+As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. <br />
 As a CEO, 
 
-
+<br />
 The approach
 we will build a formula to two consecutive monthly dataset. Such as below:
 
