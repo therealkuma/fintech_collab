@@ -7,6 +7,7 @@ As an accountant, you expedit your recording process by automate the entries. <b
 As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books.  <br />
 As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. <br />
 As a CEO, 
+As a sales manager, he look into trend of the business. future growth. 
 
 <br />
 The approach
