@@ -30,6 +30,7 @@ Loan ID	Origination Date	Purchase Date	Sold Date	Segment	Term	Status	Days Past D
 	0	0	0	0	
 ![image](https://user-images.githubusercontent.com/108306648/185517351-71645347-c84b-4f41-996a-977f5b195c00.png)
 
-Marketing: Loan Segment, ffico, regions, 
-Sales: 
+Marketing: Loan Segment, ffico, regions, gender, employment type, market channels <br />
+Sales: Sold Date - in data, default date, sale price, sale term, revenue per sale, <br />
+CFO: <br />
 
