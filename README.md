@@ -3,11 +3,11 @@ The main purpose of this project is to build an automatic analysis tool for the 
 
 The types of loans are personal installment loans such as debt consolidation, home improvement, buying a solar panel, wedding.
 
-As an accountant, you expedit your recording process by automate the entries. <br />
-As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books.  <br />
+As an accountant, you expedit your recording process by automate the entries and he examing the ingregrity of the accounting data <br />
 As a marketing, he examing the profitability, demographic, segmentation of the business. <br />
-As a CEO, <br />
 As a sales manager, he look into trend of the business. future growth. <br />
+As a CFO, reasonablness of the business and balancing of the books.<br />
+CEO, DAVE M
 
 <br />
 The approach
@@ -30,4 +30,6 @@ Loan ID	Origination Date	Purchase Date	Sold Date	Segment	Term	Status	Days Past D
 	0	0	0	0	
 ![image](https://user-images.githubusercontent.com/108306648/185517351-71645347-c84b-4f41-996a-977f5b195c00.png)
 
-Loan Segment, 
+Marketing: Loan Segment, ffico, regions, 
+Sales: 
+
