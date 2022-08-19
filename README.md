@@ -26,7 +26,7 @@ we will generate different type of charts for both accounting manager and market
 
 ![image](https://user-images.githubusercontent.com/108306648/185512948-2e2cc814-e7b7-462b-9d05-ed4eeff15ee7.png)
 Loan ID	Origination Date	Purchase Date	Sold Date	Segment	Term	Status	Days Past Due	 Loan Amount 	 Beginning Period Principal Outstanding 	 Ending Principal Outstanding 	 Beginning Period Accrued Interest 	 Ending Period Accrued Interest 	 Principal Paid 	   Interest Paid 	   Late Fee Paid 	 Return Item Fee Paid 	 Overpayment 	 Sundry Loss 	 Total Payments Received 	 Collection Fees 	 Loan Trailing Fee 	 Loan Origin City 
-4564123123	01/07/2021	01/07/2021		PRIME	60	Current	0	20000	13986.29	13689.98	153.18	143.94	296.31	189.94	0	0	0	0	486.25	0	0	
-4554645641	01/08/2020	01/08/2020		PRIME	36	CLOSED	0	6500	2564.21545	2564.21545	28.69153371	28.69153371	0	0	0	0	0	0	0	0	0	
-4876456432	01/10/2020	01/10/2020		PRIME_PLUS	36	CLOSED	0	8000	54545	54545	610.3152159	610.3152159	0	0	0	0	0	0	0	0	0	
+	0	0	0	0	
 ![image](https://user-images.githubusercontent.com/108306648/185517351-71645347-c84b-4f41-996a-977f5b195c00.png)
+
+Loan Segment, 
