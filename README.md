@@ -5,7 +5,7 @@ The types of loans are personal installment loans such as debt consolidation, ho
 
 As an accountant, you expedit your recording process by automate the entries. <br />
 As an accounting manager, he examing the ingregrity of the accounting data, reasonablness of the business and balancing of the books.  <br />
-As a marketing/sale manager, he examing the profitability, demographic, segmentation of the business. <br />
+As a marketing, he examing the profitability, demographic, segmentation of the business. <br />
 As a CEO, <br />
 As a sales manager, he look into trend of the business. future growth. <br />
 
