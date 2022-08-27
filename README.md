@@ -34,3 +34,11 @@ Marketing: Loan Segment, ffico, regions, gender, employment type, market channel
 Sales: Sold Date - in data, default date, sale price, sale term, revenue per sale, <br />
 CFO: <br />
 
+Questions to ask
+1) Quality of the loans.   breakdown the aging of the Loan balance
+2) Strategy of investments.  HFI HFS reclassification
+	@eg, you are moving 100 of loans from HFI to HFS because you need to get rid of these higher risk of default loans
+
+3) origination fees charge on loans are revenue. interest payments are revenues
+
+4) segament of the loan in terms of interest rate 
