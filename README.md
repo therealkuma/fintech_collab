@@ -38,3 +38,5 @@ The approach for building the marketing analytics is below:   <br />
 3) Review the DataFrame   <br />
 3) Create a visual aggregation explore the Average outstanding principal by different segment   <br /
     * Loan Segment, FICO, Region, Market Channel etc <br />
+ 
+ ![This is graph image](Loan_Segment.png)
