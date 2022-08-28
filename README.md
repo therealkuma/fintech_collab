@@ -40,3 +40,6 @@ The approach for building the marketing analytics is below:   <br />
     * Loan Segment, FICO, Region, Market Channel etc <br />
  
  ![This is graph image](Loan_Segment.png)
+ 
+ ![This is graph image](Region.png)
+ 
