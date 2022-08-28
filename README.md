@@ -1,6 +1,6 @@
 
-# Project 1: Strategy and Decision Tool:/n
-Company Name: K2M2 Lending: Provide personal loans to individual consumers
+# Project 1: Strategy and Decision Tool:
+Company Name: K2M2 Lending: Provide personal loans to individual consumers/n
 ##Problem
 *Currently the analytics is reviewed manually using excel which is prone to human error
 *Reviewing the big data manually is costly and time consuming
