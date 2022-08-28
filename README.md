@@ -1,5 +1,5 @@
-# fintech_collab
-# Project 1: Strategy and Decision Tool:
+
+# Project 1: Strategy and Decision Tool:/n
 Company Name: K2M2 Lending: Provide personal loans to individual consumers
 ##Problem
 *Currently the analytics is reviewed manually using excel which is prone to human error
@@ -11,4 +11,4 @@ Company Name: K2M2 Lending: Provide personal loans to individual consumers
 ##Data Type
 Loan data for personal loans focused on debt consolidation, home improvement etc.
 Data Range: YTD 2022
-![image](https://user-images.githubusercontent.com/107230399/187090554-35c063c5-357c-40b1-8ba5-a9310e3da095.png)
+
