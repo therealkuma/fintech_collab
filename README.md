@@ -36,6 +36,5 @@ The approach for building the marketing analytics is below:   <br />
 1) Import one tables from loan data excel      <br/>
 2) Create a numerical aggregation that groups the data by the year and then averages the results.   <br />
 3) Review the DataFrame   <br />
-3) Create a visual aggregation explore the Average outstanding principal by loan segment   <br />
-4) Merge HFI&HFS table into Loan data table, only merging those which the loan ID matched  <br />
+3) Create a visual aggregation explore the Average outstanding principal by different segment   <br /
     * Loan Segment, FICO, Region, Market Channel etc <br />
