@@ -44,7 +44,7 @@ The approach for building the marketing analytics is below:   <br />
  ![This is graph image](Region.png)
  
  
- ### Marketing
+ ### CCO/Wrap-up
 
 Show the overall health of the portfolios and loan performanmce for the company.
 
