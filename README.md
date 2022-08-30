@@ -43,3 +43,16 @@ The approach for building the marketing analytics is below:   <br />
  
  ![This is graph image](Region.png)
  
+ 
+ ### Marketing
+
+Show the overall health of the portfolios and loan performanmce for the company.
+
+1) Create Pie chart showing the status of loans that are for investment vs loans that are not.
+2) Use various scatter plots to show the relationships between Loans that are past due vs loan amount, loan segment, and Fico Score
+3) Tie in the information provided by the accountant, marketing and sales managers to show how K2M2 is perfoming so far.
+4) ![image](https://user-images.githubusercontent.com/108104492/187322611-1d41edb2-7c6e-4246-8c49-173e17753dae.png)
+5) ![image](https://user-images.githubusercontent.com/108104492/187322630-eb003b06-23df-428c-8a3d-0b848674c5d9.png)
+
+
+
