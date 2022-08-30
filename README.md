@@ -28,6 +28,8 @@ The approach for building the accounting entry is below:   <br />
 5) Create table by using pd.DataFrame() for each journal entry.    <br />
 6) Combined all table into one big table for purpose of booking entry in Quickbook  <br />
 
+### Sales
+
 
 ### Marketing
 
