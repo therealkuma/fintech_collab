@@ -13,7 +13,7 @@ Company Name: K2M2 Lending: Provide personal loans to individual consumers
 * Loan data for personal loans focused on debt consolidation, home improvement etc.
 * Data Range: YTD 2022
 
-## Approachs
+## Approaches
 
 ### Accounting
 
