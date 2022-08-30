@@ -30,6 +30,15 @@ The approach for building the accounting entry is below:   <br />
 
 ### Sales
 
+The approach for building the Sales Jupyter notebook:
+
+1. Import necessary Python libraries.
+2. Import data using the Accounting tool provided.
+3. Determine necessary data to develop story.
+4. Group the data by regions in order to display charts in an effective manner to the audience.
+5. Display various charts.
+6. Create story based on interpretation of data.
+
 
 ### Marketing
 
